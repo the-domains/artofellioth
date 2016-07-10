@@ -1,14 +1,14 @@
-layout_spectrum: 0.6244660587981343
-typography_spectrum: 0.12757013994269073
+layout_spectrum: 0.6069977022707462
+typography_spectrum: 0.2536398796364665
 color:
-  brandStrength: 0.1412818052340299
-  lightness: 0.33383513730950654
-  saturation: 0.025999316480010748
-  rhythmicContrast: 0.6143352561630309
+  brandStrength: 0.14460593508556485
+  lightness: 0.06868530833162367
+  saturation: 0.33676003478467464
+  rhythmicContrast: 0.5531737585552037
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: ArtofEllioth
