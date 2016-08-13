@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Art/Drawing/Illistration]]></title>
-        <description><![CDATA[Art/Drawing/Illistration]]></description>
+        <title><![CDATA[ArtofEllioth]]></title>
+        <description><![CDATA[ArtofEllioth]]></description>
         <link>http://artofellioth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 23:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 23:26:26 GMT</lastBuildDate>
         <atom:link href="http://artofellioth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://artofellioth.com/7c630513-a5e7-4d6d-ac75-7ba2c633c223/index.html</link>
             <guid isPermaLink="false">7c630513-a5e7-4d6d-ac75-7ba2c633c223</guid>
             <pubDate>Sat, 13 Aug 2016 23:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/060c73df-bfc4-491a-bf0a-af0548503d6d.jpg">]]></description>
-            <link>http://artofellioth.com/57202b8b-7ecb-4a34-a3f1-1847be97c48a/index.html</link>
-            <guid isPermaLink="false">57202b8b-7ecb-4a34-a3f1-1847be97c48a</guid>
-            <pubDate>Sat, 13 Aug 2016 23:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
