@@ -16,5 +16,8 @@ navigation:
   - name: About Me
     id: 57202b8b-7ecb-4a34-a3f1-1847be97c48a
     type: content
+  - name: Contact
+    id: 11cd6538-74ed-45a6-89a1-0677d265cd7d
+    type: content
 title: ArtofEllioth
 description: Welcome World
