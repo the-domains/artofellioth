@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ArtofEllioth]]></title>
-        <description><![CDATA[ArtofEllioth]]></description>
-        <link>https://thegrid.ai/artofellioth/</link>
+        <title><![CDATA[Art/Drawing/Illistration]]></title>
+        <description><![CDATA[Art/Drawing/Illistration]]></description>
+        <link>http://artofellioth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 05:29:29 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/artofellioth/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Aug 2016 22:57:43 GMT</lastBuildDate>
+        <atom:link href="http://artofellioth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef1801c2-8e94-4c2f-9738-0bdb7ce58445.jpg">]]></description>
-            <link>https://thegrid.ai/artofellioth/39e82b1f-6bb6-4967-b9b7-5c5a887c2cbf/index.html</link>
-            <guid isPermaLink="false">39e82b1f-6bb6-4967-b9b7-5c5a887c2cbf</guid>
-            <pubDate>Sun, 10 Jul 2016 05:29:23 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16641945-cd7c-4b08-b4ab-3befc4e9ceff.jpg" alt="This is new">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/16641945-cd7c-4b08-b4ab-3befc4e9ceff.jpg</link>
+            <guid isPermaLink="false">fa12b757-e3c3-4763-a22c-1bed01d79fb5</guid>
+            <pubDate>Sat, 13 Aug 2016 22:57:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16641945-cd7c-4b08-b4ab-3befc4e9ceff.jpg">]]></description>
-            <link>https://thegrid.ai/artofellioth/fa12b757-e3c3-4763-a22c-1bed01d79fb5/index.html</link>
-            <guid isPermaLink="false">fa12b757-e3c3-4763-a22c-1bed01d79fb5</guid>
-            <pubDate>Sun, 10 Jul 2016 05:29:14 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef1801c2-8e94-4c2f-9738-0bdb7ce58445.jpg">]]></description>
+            <link>http://artofellioth.com/39e82b1f-6bb6-4967-b9b7-5c5a887c2cbf/index.html</link>
+            <guid isPermaLink="false">39e82b1f-6bb6-4967-b9b7-5c5a887c2cbf</guid>
+            <pubDate>Sun, 10 Jul 2016 05:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
