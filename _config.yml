@@ -1,16 +1,16 @@
-typography_spectrum: 0.7792731842491776
+typography_spectrum: 0.6206338957417756
 color:
-  brandStrength: 0.4284229655750096
-  lightness: 0.6453973683528602
-  saturation: 0.4228050201199949
-  rhythmicContrast: 0.0907674201298505
+  brandStrength: 0.8294370861258358
+  lightness: 0.6493416796438396
+  saturation: 0.7881522541865706
+  rhythmicContrast: 0.4685552716255188
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.9305443635676056
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.13707138714380562
 name: ArtofEllioth
 navigation:
   - name: Contact
