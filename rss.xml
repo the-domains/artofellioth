@@ -4,15 +4,8 @@
         <description><![CDATA[ArtofEllioth]]></description>
         <link>http://artofellioth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 23:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 23:58:39 GMT</lastBuildDate>
         <atom:link href="http://artofellioth.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8abfffb-6629-4ae3-b760-b60f5f210f38.jpg">]]></description>
-            <link>http://artofellioth.com/7c037b91-580b-4267-9c61-b5fdfc6a2b45/index.html</link>
-            <guid isPermaLink="false">7c037b91-580b-4267-9c61-b5fdfc6a2b45</guid>
-            <pubDate>Wed, 17 Aug 2016 23:58:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50884269-9c53-4861-a6aa-beee8d07b1fe.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://artofellioth.com/a9de71a1-259d-40e8-b364-657fae48c0be/index.html</link>
             <guid isPermaLink="false">a9de71a1-259d-40e8-b364-657fae48c0be</guid>
             <pubDate>Sat, 13 Aug 2016 23:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b52166d-add2-46f8-bca6-7ccfd0e7d100.jpg">]]></description>
+            <link>http://artofellioth.com/11f46725-bb69-48f9-a095-c302b2457dbe/index.html</link>
+            <guid isPermaLink="false">11f46725-bb69-48f9-a095-c302b2457dbe</guid>
+            <pubDate>Sat, 13 Aug 2016 23:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
