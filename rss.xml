@@ -4,8 +4,15 @@
         <description><![CDATA[ArtofEllioth]]></description>
         <link>http://artofellioth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 00:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 00:00:54 GMT</lastBuildDate>
         <atom:link href="http://artofellioth.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a11e8c-b490-40ac-bb7b-ee5b4cf1cae9.jpg">]]></description>
+            <link>http://artofellioth.com/766b0c69-109d-4fd4-b961-5d6777270a05/index.html</link>
+            <guid isPermaLink="false">766b0c69-109d-4fd4-b961-5d6777270a05</guid>
+            <pubDate>Thu, 18 Aug 2016 00:00:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47219a05-b42c-4626-b446-79bbd3674e77.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdac6a3f-0480-4c43-a06d-f6586ca050d0.jpg">]]></description>
             <link>http://artofellioth.com/fb88d72f-f0b6-45d4-9510-473e6fac0c04/index.html</link>
             <guid isPermaLink="false">fb88d72f-f0b6-45d4-9510-473e6fac0c04</guid>
-            <pubDate>Thu, 18 Aug 2016 00:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5176bd32-97bb-4c46-8834-4b7366a6d658.jpg">]]></description>
-            <link>http://artofellioth.com/b8dce235-a66d-4c42-8cd5-c7d4e98fe433/index.html</link>
-            <guid isPermaLink="false">b8dce235-a66d-4c42-8cd5-c7d4e98fe433</guid>
             <pubDate>Thu, 18 Aug 2016 00:00:27 GMT</pubDate>
         </item>
     </channel>
