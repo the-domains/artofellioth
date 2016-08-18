@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.13707138714380562
 name: ArtofEllioth
 navigation:
-  - name: Contact
-    id: 11cd6538-74ed-45a6-89a1-0677d265cd7d
-    type: content
   - name: Home
     id: 207b165f-3d28-4742-af6e-b06985ad9b0d
     type: content
