@@ -19,9 +19,6 @@ navigation:
   - name: About Me
     id: 57202b8b-7ecb-4a34-a3f1-1847be97c48a
     type: content
-  - name: Info
-    id: 5b88431d-b6ef-4dc0-b6c8-18b1136bd624
-    type: content
   - name: Home
     id: 207b165f-3d28-4742-af6e-b06985ad9b0d
     type: content
