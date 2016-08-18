@@ -13,15 +13,15 @@ color:
 layout_spectrum: 0.13707138714380562
 name: ArtofEllioth
 navigation:
+  - name: About
+    url: >-
+      https://testing.thegrid.io/app/site/live?siteID=33f4e8c2-6128-4ae0-a1b7-0f2a1b1562e9
+    type: external
   - name: Contact
     id: 11cd6538-74ed-45a6-89a1-0677d265cd7d
     type: content
   - name: Home
     id: 207b165f-3d28-4742-af6e-b06985ad9b0d
     type: content
-  - name: About
-    url: >-
-      https://testing.thegrid.io/app/site/live?siteID=33f4e8c2-6128-4ae0-a1b7-0f2a1b1562e9
-    type: external
 title: ArtofEllioth
 description: Art/Drawing
