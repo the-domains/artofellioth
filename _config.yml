@@ -12,5 +12,9 @@ color:
     - '#333333'
 layout_spectrum: 0.13707138714380562
 name: ArtofEllioth
+navigation:
+  - name: About Me
+    id: 41fcd3ff-925a-4e7e-9128-c896834aee37
+    type: content
 title: ArtofEllioth
 description: Art/Drawing
