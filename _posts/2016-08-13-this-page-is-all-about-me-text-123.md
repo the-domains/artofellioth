@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-08-13T23:39:42.790Z'
-hasPage: false
+datePublished: '2016-08-18T00:49:33.445Z'
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T23:38:54.833Z'
+dateModified: '2016-08-18T00:49:25.150Z'
 title: ''
 publisher: {}
 description: this page is all about me text 123
-starred: true
 sourcePath: _posts/2016-08-13-this-page-is-all-about-me-text-123.md
+starred: true
+url: this-page-is-all-about-me-text-123/index.html
 _type: Blurb
 
 ---
