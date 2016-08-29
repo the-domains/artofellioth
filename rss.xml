@@ -4,7 +4,7 @@
         <description><![CDATA[ArtofEllioth]]></description>
         <link>http://artofellioth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 20:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 21:13:40 GMT</lastBuildDate>
         <atom:link href="http://artofellioth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,6 +68,13 @@
             <link>http://artofellioth.com/f986d2cb-a778-4476-bea3-451018763686/index.html</link>
             <guid isPermaLink="false">f986d2cb-a778-4476-bea3-451018763686</guid>
             <pubDate>Thu, 18 Aug 2016 00:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blogs]]></title>
+            <description><![CDATA[<p>In here you will find out more about my projects, shows, and conventions </p>]]></description>
+            <link>http://artofellioth.com/in-here-you-will-find-out-more-about-my-projects-shows-and/index.html</link>
+            <guid isPermaLink="false">bd9a5f21-dd68-49bf-b671-85e4fc9776a9</guid>
+            <pubDate>Sat, 27 Aug 2016 21:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
