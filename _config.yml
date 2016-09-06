@@ -1,29 +1,7 @@
-typography_spectrum: 0.59347
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.10569
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: ArtofEllioth
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+layout_spectrum: 0.10569
+typography_spectrum: 0.59347
 navigation:
   - name: About Me
     id: 41fcd3ff-925a-4e7e-9128-c896834aee37
@@ -31,7 +9,29 @@ navigation:
   - name: Blogs
     id: bd9a5f21-dd68-49bf-b671-85e4fc9776a9
     type: content
-favicon: null
 title: ArtofEllioth
 description: Art/Drawing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
