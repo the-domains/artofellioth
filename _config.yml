@@ -28,6 +28,9 @@ navigation:
   - name: About Me
     id: 41fcd3ff-925a-4e7e-9128-c896834aee37
     type: content
+  - name: Pofolio
+    id: f986d2cb-a778-4476-bea3-451018763686
+    type: content
 favicon: null
 title: ArtofEllioth
 description: Art/Drawing
